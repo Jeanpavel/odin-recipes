@@ -1,0 +1,38 @@
+/* general file */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+
+/* index */
+.recipe-head {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.recipe-list {
+    color: beige;
+}
+
+a {
+    color: black;
+    font-size: 18px;
+}
+
+/* recipe files */
+.recipe-title {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+}
+
+h3 {
+    text-decoration-line: underline;
+    font-size: 24px;
+}
+
+p {
+    font-size: 20px;
+}
